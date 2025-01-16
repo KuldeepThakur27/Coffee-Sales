@@ -8,4 +8,5 @@
 ![image](https://github.com/user-attachments/assets/6893cdd6-418e-43ee-b358-fbe0e8b95c44)
 ### Hour Wise Sales
 ![image](https://github.com/user-attachments/assets/d2a42765-4e5e-4eee-bfba-ef4754fffe9c)
+
 ![image](https://github.com/user-attachments/assets/8bc95881-4b88-4c62-b0f4-88db53450d03)
